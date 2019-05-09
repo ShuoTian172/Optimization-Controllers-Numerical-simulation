@@ -4,6 +4,6 @@
 - In this project the optimal control theory was applied to a tuberculosis model given by a system of ordinary differential equations. Optimal control strategies are proposed to minimize the cost of interventions. Numerical simulations are given using data from Adngola Luanda Sanatorium Hospital.
 
 
-
+![img](http://i.imgur.com/yourfilename.png)
 
 
