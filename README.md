@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/tscpu172/Optimal-Control/blob/master/TBall.png"  > 
+  <img src="https://github.com/tscpu172/Optimal-Control/blob/master/TBall.png" width="800"> 
   
 </p>
 
