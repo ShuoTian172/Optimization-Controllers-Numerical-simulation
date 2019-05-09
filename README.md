@@ -5,10 +5,10 @@
 
 <p align="center">
   <img src="https://github.com/tscpu172/Optimal-Control/blob/master/U1.jpg" width="350" > 
-  
 </p>
+
 <p align="center">
-  <img src="https://github.com/tscpu172/Optimal-Control/blob/master/U1.jpg" width="350" > 
+  <img src="https://github.com/tscpu172/Optimal-Control/blob/master/TBall.png"  > 
   
 </p>
 
