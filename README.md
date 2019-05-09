@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/tscpu172/Optimal-Control/blob/master/TBall.png" width="700"> 
+  <img src="https://github.com/tscpu172/Optimal-Control/blob/master/images/TBall.png" width="700"> 
   
 </p>
 
